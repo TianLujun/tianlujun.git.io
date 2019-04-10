@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site
+title: 做一个有趣的平凡人
+subtitle:
+description:
+author: Tianlujun
+language: zh
+timezone: Asia/Shanghai
